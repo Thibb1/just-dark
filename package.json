@@ -1,0 +1,22 @@
+{
+    "name": "just-dark",
+    "displayName": "Just Dark",
+    "description": "Dark theme for VS Code",
+    "publisher": "Thibb1",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Just Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Just Dark-color-theme.json"
+            }
+        ]
+    }
+}
